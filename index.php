@@ -38,7 +38,7 @@
         
         <!-- MAIN NAV LINKS -->
         <!--<ul>
-            <li><a href="#Home" ><span class="icons flaticon-house3"></span>Home</a>
+            <li><a href="#Home" ><span class="icons flaticon-house3"></span>Home</a>php 
             </li>
             <li><a href="#Features" ><span class="icons flaticon-drawer1"></span>Features</a>
             </li>
@@ -95,9 +95,10 @@
             <div class="wrap">
                 <div class="box">
                     <!-- SECTION HOME CONTENT -->
-                    <h1>TrailBlaza</h1>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elitr eiciendis autem aperiam.
-                    <br> Now available on the App Store and Play Store!</p> <a href="#Download" class="simple-button"><span class="icon flaticon-download7"></span>Download App</a> </div>
+                    <h1>TrailblazA</h1>
+                    <p style="text-align:justify">TrailblazA is going to be the next big thing that every person will have on his smartphone. The customers love the services that they get from the product. The free app is easy to download and free to use. For more information about the services and features that you will get in TrailblazA, ensure that you visit the website. </p>  
+                    <p style="text-align:justify">TrailblazA has been developed with such features that will allow you to stay connected with the world. We know that most of the platforms require you to share your personal contact number or other information to sign in. </p>
+                    <br> TrailblazA is available on the App Store and Play Store Download Now!</p> <a href="#Download" class="simple-button"><span class="icon flaticon-download7"></span>Download App</a> </div>
                     <!-- END SECTION HOME CONTENT -->
             </div>
         </div>
@@ -109,16 +110,14 @@
                 <div class="box">
                     <!-- SECTION FEATURES CONTENT -->
                     <h2><strong>Amazing</strong> Features</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora similique excepturi obcaecati, maiores nostrum esse illo in soluta at saepe perspiciatis eos quasi laudantium sunt ad quaerat?</p>
+                    <p  style="text-align:justify">We know that you want to know more about TrailblazA. The platform has been developed with the latest features that will make you agree, it is the best and one of kind platform that will meet all your requirements with a single click. In order to help you get the best out of everything here is the list of amazing features that you will get in TrailblazA. </p>
                     <ul class="features">
-                        <li><a class="tooltip" href="#"><span class="icon flaticon-desktop1"></span> Clean Design<span class="tooltip-content"><span class="tooltip-text"><span class="tooltip-inner"><span class="icon flaticon-desktop1"></span>Lorem ipsum dolor sit amet, consectetur adipisicing elitr eiciendis autem aperiam.</span></span></span></a> </li>
-                        <li><a class="tooltip" href="#"><span class="icon flaticon-small62"></span> Dedicated Support<span class="tooltip-content"><span class="tooltip-text"><span class="tooltip-inner"><span class="icon flaticon-small62"></span>Lorem ipsum dolor sit amet, consectetur adipisicing elitr eiciendis autem aperiam.</span></span></span></a> </li>
-                        <li><a class="tooltip" href="#"><span class="icon flaticon-adjust3"></span> Very customizable<span class="tooltip-content"><span class="tooltip-text"><span class="tooltip-inner"><span class="icon flaticon-adjust3"></span>Lorem ipsum dolor sit amet, consectetur adipisicing elitr eiciendis autem aperiam.</span></span></span></a> </li>
+                        <li><a class="tooltip" href="#"><span class="icon flaticon-desktop1"></span> 24/7 services<span class="tooltip-content"><span class="tooltip-text"><span class="tooltip-inner"><span class="icon flaticon-desktop1"></span>The common issue that people have to face with most of the applications is that they do not provide the 24/7 services or they undergo downtime which means that you cannot use them for a specific amount of time. With TrailblazA, you will not have to deal with such kind of issues. Even when the platform is under up gradation, our developers will ensure that you get the services that you desire. You will be able to stay in touch with everyone. </span></span></span></a> </li>
+                        <li><a class="tooltip" href="#"><span class="icon flaticon-small62"></span> One Stop Platform <span class="tooltip-content"><span class="tooltip-text"><span class="tooltip-inner"><span class="icon flaticon-small62"></span>It is the one stop platform. There is no need to download many different applications. TrailblazA is the superhero that has been developed to protect the space on your phone. With the single application, you will get all the benefits that you have desired. If you want to know about the security of TrailblazA, you can visit our website.  .</span></span></span></a> </li>
                     </ul>
                     <ul class="features">
-                        <li><a class="tooltip" href="#"><span class="icon flaticon-interface19"></span> Well Documented<span class="tooltip-content"><span class="tooltip-text"><span class="tooltip-inner"><span class="icon flaticon-interface19"></span>Lorem ipsum dolor sit amet, consectetur adipisicing elitr eiciendis autem aperiam.</span></span></span></a> </li>
-                        <li><a class="tooltip" href="#"><span class="icon flaticon-outlined3"></span> Multiple Demos<span class="tooltip-content"><span class="tooltip-text"><span class="tooltip-inner"><span class="icon flaticon-outlined3"></span>Lorem ipsum dolor sit amet, consectetur adipisicing elitr eiciendis autem aperiam.</span></span></span></a> </li>
-                        <li><a class="tooltip" href="#"><span class="icon flaticon-lightbulb"></span> Amazing Features<span class="tooltip-content"><span class="tooltip-text"><span class="tooltip-inner"><span class="icon flaticon-lightbulb"></span>Lorem ipsum dolor sit amet, consectetur adipisicing elitr eiciendis autem aperiam.</span></span></span></a> </li>
+                        <li><a class="tooltip" href="#"><span class="icon flaticon-interface19"></span> Share Everything <span class="tooltip-content"><span class="tooltip-text"><span class="tooltip-inner"><span class="icon flaticon-interface19"></span>Many free applications will allow you to share different types of information but all of them have their limitations. With TrailblazA, sharing is unlimited. </span></span></span></a> </li>
+                        <li><a class="tooltip" href="#"><span class="icon flaticon-outlined3"></span> Easy to Use<span class="tooltip-content"><span class="tooltip-text"><span class="tooltip-inner"><span class="icon flaticon-outlined3"></span>The best thing about TrailblazA is that it is very easy to use and understand. All you have to do is download the application on your smart device. As soon as you sign in your will get the complete tutorial of the application. If you already understand, you can skip it. Once you understand the features, it would be a piece of cake. Some of the features have been kept hidden for the audience to find out. There are no special menus or features that might be hard for you to access. With the first interaction you will be able to understand everything regarding the utilization of the app. It has very interesting user interface that you will not come across in any other app. Even if you have to teach your grandparents how to use it, they will learn in a matter of seconds.</span></span></span></a> </li>
                     </ul>
                     <!-- END SECTION FEATURES CONTENT -->
                 </div>
@@ -131,18 +130,16 @@
             <div class="wrap">
                 <div class="box">
                     <!-- SECTION ABOUT CONTENT -->
-                    <h2>About <strong>TrailBlaza</strong></h2>
+                    <h2>About <strong>TrailblazA</strong></h2>
                     <div class="tabs tabs-style-linemove">
                         <!-- TABS LINKS -->
                         <nav>
                             <ul>
-                                <li><a href="#section-linemove-1"><span class="icon flaticon-lightbulb"></span><span> Design</span></a>
-                                </li>
-                                <li><a href="#section-linemove-2"><span class="icon flaticon-adjust3"></span><span> Features</span></a>
+                                <li><a href="#section-linemove-1"><span class="icon flaticon-lightbulb"></span><span> About Us</span></a>
                                 </li>
                                 <li><a href="#section-linemove-3"><span class="icon flaticon-drawer1"></span><span> Demos</span></a>
                                 </li>
-                                <li><a href="#section-linemove-4"><span class="icon flaticon-laptop3"></span><span> Elements</span></a>
+                                <li><a href="#section-linemove-4"><span class="icon flaticon-laptop3"></span><span> Features</span></a>
                                 </li>
                             </ul>
                         </nav>
@@ -154,40 +151,25 @@
                             <!-- TAB 1 -->
                             <section id="section-linemove-1">
                                 <h4><span class="icon flaticon-lightbulb"></span> Good design doesn't date!</h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora similique excepturi obcaecati, maiores nostrum esse illo in soluta at saepe perspiciatis eos quasi laudantium sunt ad quaerat ipsum dolor sit amet, consectetur adipisicing elit?</p>
-                            </section>
-
-                             <!-- TAB 2 -->
-                            <section id="section-linemove-2">
-                                <h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora similique excepturi obcaecati, aiores nostrum esse illo in soluta.</h4>
-                                <ul class="features">
-                                    <li><a class="tooltip" href="#"><span class="icon flaticon-desktop1"></span> Unique Design</a> </li>
-                                    <li><a class="tooltip" href="#"><span class="icon flaticon-small62"></span> Well Documented</a> </li>
-                                </ul>
-                                <ul class="features">
-                                    <li><a class="tooltip" href="#"><span class="icon flaticon-outlined3"></span> Multiple Demos</a> </li>
-                                    <li><a class="tooltip" href="#"><span class="icon flaticon-lightbulb"></span> Amazing Features</a> </li>
-                                </ul>
+                                <p style="text-align:justify">Rapidly progressing technology is taking over the world in such a way that it is making our lives easier. If we pay attention to our methods of communication, we will notice that how quickly the humans have evolved from letters to telephones to smart phones. Despite all these innovations and devices, the love among the humans is getting stronger with the passage of time.In the past, we had friends only in our neighborhood or family. It was the time that gave me the inspiration to do something extraordinary that would help us to connect with the entire world. Having the dream in my eyes now, I have reached the point where I am able to present to you the TrailblazA.</p>
                             </section>
 
                             <!-- TAB 3 -->
                             <section id="section-linemove-3">
-                                <h4><span class="icon flaticon-drawer1"></span> Check out Appsperia's multiple demos!</h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora similique excepturi obcaecati, maiores nostrum esse illo in soluta at saepe perspiciatis eos quasi laudantium sunt ad quaerat ipsum dolor sit amet, consectetur adipisicing elit?</p>
+                                <h4><span class="icon flaticon-drawer1"></span> Check out TrailblazA's multiple demos!</h4>
                             </section>
                             
                             <!-- TAB 4 -->
                             <section id="section-linemove-4">
-                                <p>
-                                    <h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora similique excepturi obcaecati, aiores nostrum esse illo in soluta.</h4>
-                                    <ul class="features">
-                                        <li><a class="tooltip" href="#"><span class="icon flaticon-desktop1"></span> Content Boxes</a> </li>
-                                        <li><a class="tooltip" href="#"><span class="icon flaticon-small62"></span> Extended Tabs</a> </li>
-                                    </ul>
-                                    <ul class="features">
-                                        <li><a class="tooltip" href="#"><span class="icon flaticon-outlined3"></span> Carousels & Sliders</a> </li>
-                                        <li><a class="tooltip" href="#"><span class="icon flaticon-lightbulb"></span> Contact Form</a> </li>
-                                    </ul>
+                                <p  style="text-align:justify">We know that you want to know more about TrailblazA. The platform has been developed with the latest features that will make you agree, it is the best and one of kind platform that will meet all your requirements with a single click. In order to help you get the best out of everything here is the list of amazing features that you will get in TrailblazA. </p>
+                                <ul class="features">
+                                    <li><a class="tooltip" href="#"><span class="icon flaticon-desktop1"></span> 24/7 services<span class="tooltip-content"><span class="tooltip-text"><span class="tooltip-inner"><span class="icon flaticon-desktop1"></span>The common issue that people have to face with most of the applications is that they do not provide the 24/7 services or they undergo downtime which means that you cannot use them for a specific amount of time. With TrailblazA, you will not have to deal with such kind of issues. Even when the platform is under up gradation, our developers will ensure that you get the services that you desire. You will be able to stay in touch with everyone. </span></span></span></a> </li>
+                                    <li><a class="tooltip" href="#"><span class="icon flaticon-small62"></span> One Stop Platform <span class="tooltip-content"><span class="tooltip-text"><span class="tooltip-inner"><span class="icon flaticon-small62"></span>It is the one stop platform. There is no need to download many different applications. TrailblazA is the superhero that has been developed to protect the space on your phone. With the single application, you will get all the benefits that you have desired. If you want to know about the security of TrailblazA, you can visit our website.  .</span></span></span></a> </li>
+                                </ul>
+                                <ul class="features">
+                                    <li><a class="tooltip" href="#"><span class="icon flaticon-interface19"></span> Share Everything <span class="tooltip-content"><span class="tooltip-text"><span class="tooltip-inner"><span class="icon flaticon-interface19"></span>Many free applications will allow you to share different types of information but all of them have their limitations. With TrailblazA, sharing is unlimited. </span></span></span></a> </li>
+                                    <li><a class="tooltip" href="#"><span class="icon flaticon-outlined3"></span> Easy to Use<span class="tooltip-content"><span class="tooltip-text"><span class="tooltip-inner"><span class="icon flaticon-outlined3"></span>The best thing about TrailblazA is that it is very easy to use and understand. All you have to do is download the application on your smart device. As soon as you sign in your will get the complete tutorial of the application. If you already understand, you can skip it. Once you understand the features, it would be a piece of cake. Some of the features have been kept hidden for the audience to find out. There are no special menus or features that might be hard for you to access. With the first interaction you will be able to understand everything regarding the utilization of the app. It has very interesting user interface that you will not come across in any other app. Even if you have to teach your grandparents how to use it, they will learn in a matter of seconds.</span></span></span></a> </li>
+                                </ul>
                             </section>
                         </div>
                          <!-- END TABS CONTENT -->                            
@@ -205,12 +187,7 @@
                 <div class="box">
                     <div class="fp-tableCell screenshots-content">
                         <!-- SECTION SCREENSHOTS CONTENT -->
-                        <h2>Screenshots</h2>
-                        <ul class="features">
-                            <li><a class="tooltip"><span class="icon flaticon-camera19"></span> Present your app with AppSperia screenshots</a> </li>
-                            <li><a class="tooltip"><span class="icon flaticon-arrow96"></span> Change images using side arrows or caption bullets</a> </li>
-                            <li><a class="tooltip"><span class="icon flaticon-laptop3"></span> Navigate using keyboard arrows to change screenshots</a> </li>
-                        </ul>
+                        <h2>TrailblazA App Demo Screenshots</h2>
                          <!-- END SECTION SCREENSHOTS CONTENT -->
                     </div>
                    
@@ -234,9 +211,7 @@
             <div class="wrap">
                 <div class="box">
                     <!-- SECTION DOWNLOAD CONTENT-->
-                    <h2><strong>Download</strong> the app</h2>
-                    <p>A better way to present your app using fully featured appsperia template.
-                    <br> Now available on the App Store and Play Store!</p> 
+                    <h2><strong>Download</strong> TrailblazA Today!!!</h2>
                     
                     <!-- DOWNLOAD APPSTORE-->
                     <a href="#" class="simple-button appstore-button"><span class="icon appstore"></span>App Store</a>
@@ -257,7 +232,7 @@
                     <!-- SECTION CONTACT CONTENT-->
                     <h2><strong>Get</strong> in touch</h2>
                     <ul class="features">
-                        <li><a class="tooltip" href="#"><span class="icon flaticon-telephone1"></span> Call Us now<span class="tooltip-content"><span class="tooltip-text"><span class="tooltip-inner"><span class="icon flaticon-telephone1"></span>Support: +01 800.300.381 <br>Marketing: +01 800.300.382 <br>Manager: +01 800.300.383 </span></span></span></a> </li>
+                        <li><a class="tooltip" href="#"><span class="icon flaticon-telephone1"></span> Call Us now<span class="tooltip-content"><span class="tooltip-text"><span class="tooltip-inner"><span class="icon flaticon-telephone1"></span>Support: 6463788874 </span></span></span></a> </li>
                         <li><span class="tooltip"><span class="icon flaticon-map5"></span>See our location<span class="tooltip-content"><span class="tooltip-text"><span class="tooltip-inner"><span class="icon flaticon-map5"></span>2819-2835 Florence Ave, Huntington Park, CA 90255
                             <br><a href="https://www.google.com/maps/dir/33.9736437,-118.2192335/" target="_blank">View Map</a>
                             </span>
@@ -265,16 +240,6 @@
                             </span>
                         </span>
                         </li>
-                    </ul>
-                    <ul class="features">
-                        <li><span class="tooltip"><span class="icon flaticon-cursor7"></span>Official Website <span class="tooltip-content"><span class="tooltip-text"><span class="tooltip-inner"><span class="icon flaticon-cursor7"></span>
-                            <br> <a href="http://themeforest.net" target="_blank">www.appsperia.net</a>
-                            </span>
-                            </span>
-                            </span>
-                            </span>
-                        </li>
-                        <li><a class="tooltip" href="#"><span class="icon flaticon-mail9"></span> Send Email<span class="tooltip-content"><span class="tooltip-text"><span class="tooltip-inner"><span class="icon flaticon-mail9"></span>contact@mail.com<br>office@mail.com<br>support@mail.com</span></span></span></a> </li>
                     </ul>
 
                     <!-- SECTION CONTACT FORM-->
@@ -299,12 +264,11 @@
     <div class="wrap">
         <div id="social-icons">
             <ul>
-                <li><a href=""><i class="flaticon-facebook6"></i></a> </li>
-                <li><a href=""><i class="flaticon-social19"></i></a> </li>
-                <li><a href=""><i class="flaticon-google16"></i></a> </li>
-                <!--<li><a href=""><i class="flaticon-social40"></i></a> </li>
-                <li><a href=""><i class="flaticon-social7"></i></a> </li>
-                <li><a href=""><i class="flaticon-logo3"></i></a> </li>-->
+                <li><a href="http://www.facebbok.com/trailblaza101"><i class="flaticon-facebook6"></i></a> </li>
+                <li><a href="http://www.twiiter.com/trailblaza1o1"><i class="flaticon-social19"></i></a> </li>
+                <!--<li><a href=""><i class="flaticon-social40"></i></a> </li>-->
+                <li><a href="http://www.intagram.com/trailblaza101"><i class="flaticon-social7"></i></a> </li>
+               <!-- <li><a href=""><i class="flaticon-logo3"></i></a> </li>-->
             </ul>
         </div>
     </div>
